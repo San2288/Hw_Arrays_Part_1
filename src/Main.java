@@ -85,7 +85,6 @@ public class Main {
             }
         }
 
-
         // Задача 4
         System.out.println("Задача 4");
         int[] numbers3 = new int[3];
